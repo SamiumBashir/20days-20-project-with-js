@@ -26,7 +26,7 @@ function startTimer() {
 };
 
 function stopTimer() {
-    clearInterval();
+    clearInterval(interval);
     addToLap();
     stopButton.disabled = false;
     pauseButton.disabled = true;
