@@ -90,9 +90,6 @@ challenge.
                      20 Project 20       ⏳ Upcoming      To be added
   ------------------------------------------------------------------------
 
-> Replace the placeholder names and descriptions as you build each
-> project. Change its status to `✅ Completed` when it is finished.
-
 ## 🛠️ Tech Stack
 
 -   **HTML5** --- page structure
