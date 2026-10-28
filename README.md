@@ -1,4 +1,3 @@
-::: {align="center"}
 # 🚀 20 Days, 20 Projects with JavaScript
 
 **Learning JavaScript by building real projects --- one step at a
