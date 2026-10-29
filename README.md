@@ -53,7 +53,7 @@ challenge.
                                                           and a Lap Timer
                                                           section.
 
-                     03 Project 03       ⏳ Upcoming      To be added
+                     03 **Poll System**       ✅ Complete      A polling system with calculate votes in progress bar
 
                      04 Project 04       ⏳ Upcoming      To be added
 
@@ -155,7 +155,6 @@ this repository as I complete each one.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **Built with 💛, JavaScript, and a willingness to keep learning.**
 
 ⭐ If you find this journey interesting, feel free to explore the
